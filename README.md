@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/MikiyasMebrate/lmis-clone-react/blob/main/Screen%20Recording%202024-08-14%20at%208.28.19%20PM.gif))
+![](./sample.gif)
