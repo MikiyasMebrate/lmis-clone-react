@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-![plot](./Screen Recording 2024-08-14 at 8.28.19 PM.gif)
+
 ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/MikiyasMebrate/lmis-clone-react/blob/main/Screen%20Recording%202024-08-14%20at%208.28.19%20PM.gif))
